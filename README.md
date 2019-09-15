@@ -1,2 +1,2 @@
 # Singer-s-Website
-My own website designed using angular. It contains information about my music.
+My own fairytale themed website designed using angular. It contains information about my music.
